@@ -90,7 +90,7 @@ body{
     margin-bottom: 4rem;
 }
 
-.slider__btn_prev,
+.slider__btn-prev,
 .slider__btn-next{
     width: 5rem;
     height: 5rem;
@@ -120,7 +120,7 @@ body{
     opacity: 0;
 }
 
-.slides__item:active{
+.slides__item--active{
     opacity: 1;
 }
 
